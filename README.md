@@ -1,3 +1,3 @@
-# eslint-config-inboxfactory
+# @inboxfactory/eslint-config
 
-ESLint and Prettier configs we use.
+Shared ESLint config.

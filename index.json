@@ -6,6 +6,9 @@
   },
   "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2019
+  },
   "plugins": ["@typescript-eslint"],
   "rules": {
     "indent": ["error", 2],

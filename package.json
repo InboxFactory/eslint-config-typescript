@@ -1,6 +1,11 @@
 {
   "name": "@inboxfactory/eslint-config",
   "version": "0.1.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InboxFactory/eslint-config"
+  },
   "main": "index.json",
   "files": [
     "index.json"

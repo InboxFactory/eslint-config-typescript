@@ -12,7 +12,7 @@
   "plugins": ["@typescript-eslint"],
   "rules": {
     "max-len": ["error", {"code": 110}],
-    "quotes": ["error", "single"],
+    "quotes": ["error", "single", {"avoidEscape": true}],
     "sort-imports": "error"
   }
 }

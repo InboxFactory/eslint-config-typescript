@@ -1,10 +1,10 @@
 {
-  "name": "@inboxfactory/eslint-config",
+  "name": "@inboxfactory/eslint-config-typescript",
   "version": "0.2.2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/InboxFactory/eslint-config"
+    "url": "https://github.com/InboxFactory/eslint-config-typescript"
   },
   "main": "index.json",
   "files": [

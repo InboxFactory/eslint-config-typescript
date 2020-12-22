@@ -1,3 +1,3 @@
-# @inboxfactory/eslint-config
+# @inboxfactory/eslint-config-typescript
 
-Shared ESLint config.
+Shared ESLint config specifically for typescript.

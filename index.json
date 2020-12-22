@@ -4,16 +4,10 @@
     "es6": true,
     "node": true
   },
-  "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint"],
+  "extends": ["@inboxfactory", "plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 2019
   },
-  "plugins": ["@typescript-eslint"],
-  "rules": {
-    "max-len": ["error", {"code": 110}],
-    "no-empty": ["error", {"allowEmptyCatch": true}],
-    "quotes": ["error", "single", {"avoidEscape": true}],
-    "sort-imports": "error"
-  }
+  "plugins": ["@typescript-eslint"]
 }

@@ -2,6 +2,15 @@
 # yarn lockfile v1
 
 
+"@inboxfactory/eslint-config@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@inboxfactory/eslint-config/-/eslint-config-0.3.0.tgz#10122af988c582c210300a7933874cfe22913efc"
+  integrity sha512-B5Q6kKPOXgOSgkfRFW4tcazOsENWJFdv9bHhqr48o8P0YqtjBMTEDpZ+i1+rZ2r0tG5aiwvyW5BxNTKlYfdB7A==
+  dependencies:
+    "@inboxfactory/prettier-config" "^0.1.1"
+    eslint-config-prettier "^6.12.0"
+    eslint-plugin-prettier "^3.1.4"
+
 "@inboxfactory/prettier-config@^0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@inboxfactory/prettier-config/-/prettier-config-0.1.1.tgz#fcaadc73a60bdfd610396d37738f98ee7ade41bd"

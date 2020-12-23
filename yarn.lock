@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@inboxfactory/eslint-config@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@inboxfactory/eslint-config/-/eslint-config-0.4.0.tgz#5eb323d8492d76bbf96a3ebb9f6ad895ff3cf43f"
-  integrity sha512-FDsc5Tw+snDqNTrvvNegqqhuB9OusZsPoC0WbLqFW5f6MlV7B0vVyO9yPA8jHO/UzVfWgqJyyiOuaYJerG9wLQ==
+"@inboxfactory/eslint-config@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@inboxfactory/eslint-config/-/eslint-config-0.5.0.tgz#c19f590aae4268cf4ee7239461b0a2ea92c46250"
+  integrity sha512-Yx+3y1EtPvroy5GXL/e3EzjqQUYp2EUAJy9yowyNDQdWVO0hOO0TWyvAjBMG577Glbbc0eMlwqubMbob/zQa7Q==
   dependencies:
     "@inboxfactory/prettier-config" "^0.1.1"
     eslint-config-prettier "^6.12.0"
